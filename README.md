@@ -1,7 +1,7 @@
 ## Hi there 👋
-
-<!--
-**yusuf-masmas/yusuf-masmas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# yusuf masmas
+**mekatronik 1.Sınıf öğrencisi
+** 
 
 Here are some ideas to get you started:
 
